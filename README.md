@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gym Site](https://github.com/satansin123/gym)
 
-- 🔍 Checkout our [Phoenix Website](https://phoenix-bphc.vercel.app/)
+- 🔍 Checkout our [Phoenix Website](https://phoenix-bphc.vercel.app/) for our own EEE Dept.
 
 - 🌱 I’m currently learning **Node.js, cp course from gfg**
 
