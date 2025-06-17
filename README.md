@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanchay Ketan Sinha</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🔭 I’m currently working on [Gym Site](https://github.com/satansin123/gym)
+- 🔭 I’m currently working on [vOS - a virtual OS](https://github.com/satansin123/vOS)
 
-- 🔍 Checkout our [Phoenix Website](https://phoenix-bphc.vercel.app/) for our own EEE Dept.
+- 🔍 Checkout our [IMS Site](https://github.com/bphcerp/Erp) for our own EEE Dept.
 
-- 🌱 I’m currently learning **Node.js, cp course from gfg**
+- 🌱 I’m currently learning **How to use c++ for a project, Intern at aveva**
 
 - 📫 How to reach me **sanchay2357@gmail.com**
 
